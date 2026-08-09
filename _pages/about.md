@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Visiting Assistant Professor of Global Studies at Swarthmore College. My research lies at the intersection of comparative political economy and political behavior, with a substantive focus on migration, governance, and political representation, and a regional focus on India. My work examines the consequences of internal migration for citizen-state relations and democratic governance in left behind areas. Specifically, I study how communities experiencing persistent migration due to economic stagnation and environmental shocks engage with politics, and what that means for democratic accountability.
+I am a Visiting Assistant Professor of Global Studies at Swarthmore College. My research lies at the intersection of comparative political economy and political behavior, with a substantive focus on migration, governance, and political representation, and a regional focus on India. My work examines the consequences of internal migration for citizen-state relations and democratic governance in left behind areas. Specifically, I study how communities locked in cycles of  migration due to economic stagnation and environmental shocks engage with politics, and what that means for democratic accountability.
 
 I am also currently working on two collaborative projects: one evaluates the effects of ethnic quotas on migration, and the other explores how slow-onset disasters shape political engagement and government responsiveness in contexts of limited state capacity. All of my projects are based in India and draw on a range of methodological approaches, including difference-in-differences and panel designs, household surveys, and immersive ethnographic fieldwork.
 
