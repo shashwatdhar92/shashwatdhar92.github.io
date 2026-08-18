@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exit as Disengagement: The Political Implications of Economic Migration in Rural India
+title: "Exit as Disengagement: The Political Implications of Economic Migration in Rural India"
 description: Working Paper
 importance: 1
 category: work
