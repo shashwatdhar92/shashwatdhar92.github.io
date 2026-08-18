@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /cv/
-title: Curriculum Vitae
+title: cv
 nav: true
 nav_order: 5
 description: Please click on the link below to view my CV.
