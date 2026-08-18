@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Internal Migration, Public Goods Provision, and Democratic Accountability in Rural India
-description: Manuscript in Preparation
+title: Exit as Disengagement**:** The Political Implications of Economic Migration in Rural India
+description: Working Paper
 importance: 1
 category: work
 related_publications: false
 ---
 
 
-**Abstract:** Temporary migration is central to household risk diversification in developing countries.  How do political elites respond to shock-induced migration among their constituents? I argue that migration reshapes elite incentives non-monotonically: modest migration may prompt elites to invest in public goods to retain a shrinking electorate, but mass migration undercuts the distributive logic for doing so. Using a novel panel dataset constructed from India's Rural Economic and Demographic Survey (REDS), I show that shock-induced migration exhibits a robust inverted-U relationship with public goods provision—moderate migration is associated with marginal improvements in provision, but mass migration undermines it. By contrast, community meeting frequency and member attendance decline monotonically with migration, indicating a parallel weakening of local deliberative institutions. Additionally, villages experiencing intensive migration see declines in the share of college-educated candidates contesting for council leadership positions. These findings suggest that migration reshapes elites’ incentives to govern by undermining grass-roots accountability mechanisms in left behind areas.
+**Abstract:** How does internal migration transform citizen-state relations in developing countries? This paper examines the long-run effects of migration on household political engagement in left behind areas. I argue that migration helps households self-insure against economic uncertainty but siphons away political spearheads, weakening the incentives and capacity of those left behind to participate in politics.  I develop and test this argument  in India using a novel panel dataset that tracked more than 8,000 rural households over a 16-year period, and an original household survey in a high-migration corridor (N=1,686). Using a difference-in-differences design, I show that household migration reduces contact with elected officials and depresses engagement in community affairs. Survey evidence further corroborates these findings: members of migrant households are systematically less likely to vote, campaign, protest, and contest local elections than members of non-migrant households. These findings underscore an overlooked political cost of migration in left behind regions with important implications for democratic accountability in the Global South.
 
-**Key Words:** Migration, Demographic Change, Public Goods Provision, Local Institutions, Elite Behavior, Democratic Accountability
+**Key Words:** Migration; Self-insurance; Political Disengagement; Political Brain Drain, Democratic Accountability; South Asia
