@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /commentaries/
-title: commentaries
+permalink: /commentary/
+title: commentary
 nav: true
 nav_order: 4
 ---
