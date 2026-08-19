@@ -2,7 +2,7 @@
 layout: page
 permalink: /fieldwork/
 title: fieldwork
-nav: true
+nav: false
 nav_order: 5
 ---
 
