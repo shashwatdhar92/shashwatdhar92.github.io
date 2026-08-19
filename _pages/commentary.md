@@ -8,7 +8,7 @@ nav_order: 4
 
 <div class="publications">
 
-<h2>Public Writing/Op-Eds</h2>
+<h2>Public Writing</h2>
 {% bibliography --query @*[category=commentary] %}
 
 <h2>Media Mentions</h2>
