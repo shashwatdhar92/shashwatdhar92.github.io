@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Disasters and Political Mobilization
-description: With Ritwika Basu, Indian Institute of Human Settlements, Bangalore
+description: With Ritwika Basu, Indian Institute for Human Settlements, Bangalore
 description: Data analysis
 importance: 3
 category: work
