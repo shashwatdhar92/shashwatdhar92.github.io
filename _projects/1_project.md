@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Exit as Disengagement: The Political Implications of Economic Migration in Rural India"
-description: Manuscript under review [Draft available upoon request]
+description: Manuscript under review [Draft available upon request]
 importance: 1
 category: work
 related_publications: false
