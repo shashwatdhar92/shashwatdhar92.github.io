@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "The Price of Exit: Internal Migration, Public Goods Provision, and Democratic Accountability in Rural India"
+title: "The Price of Exit: Environmental Shocks, Internal Migration, and Democratic Accountability in Rural India"
 description: Manuscript in Preparation
 importance: 2
 category: work
