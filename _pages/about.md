@@ -32,7 +32,7 @@ I am currently working on two collaborative projects: one examines how environme
 
 My research has received funding from the American Institute of Indian Studies, the American Political Science Association, and University of Pennsylvania's Center for the Advanced Study of India. I hold a Ph.D. in Political Science from Vanderbilt University.
 
-Before graduate school, I worked at the Lokniti Programme for Comparative Democracy in New Delhi, where I supervised public opinion surveys across more than ten Indian states.I also hold an M.A. in Development Studies from the Tata Institute of Social Sciences, Mumbai, and a B.A. (Hons.) in Political Science from Hindu College, University of Delhi.
+Before graduate school, I worked at the Lokniti Programme for Comparative Democracy in New Delhi, where I supervised public opinion surveys across more than ten Indian states. I also hold an M.A. in Development Studies from the Tata Institute of Social Sciences, Mumbai, and a B.A. (Hons.) in Political Science from Hindu College, University of Delhi.
 
 
 
