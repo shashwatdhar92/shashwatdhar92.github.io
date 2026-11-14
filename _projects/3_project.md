@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Environmental Shocks, Electoral Quotas, and Distributive Conflict
+title: Electoral Quotas and Distributive Conflict
 description: With Priyadarshi Amar, University Carlos III - Madrid, and Varun Karekurve-Ramachandra, University of Southern California
 description: Data analysis
 importance: 3
